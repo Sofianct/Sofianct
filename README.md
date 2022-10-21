@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Sofía!
+
+### I am a passionate full stack developer who is willing to learn continuously. 
+
+
+### Connect with me:   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-romera/)
+
+## 🚀 Languages and Tools:
+
+
+![enter image description here](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![enter code here](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![enter code here](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,mysql,firebase,vscode,figma,vite,styledcomponents)](https://skillicons.dev)
+
+
+
+✨**MAIN STACK**✨
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)
