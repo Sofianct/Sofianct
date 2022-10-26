@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 ✨**MAIN STACK**✨
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://github.com/Sofianct)
+
+##
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sofianct&theme=material-palenight&date_format=n%2Fj%5B%2FY%5D&border=9B2BDD)](https://git.io/streak-stats)
